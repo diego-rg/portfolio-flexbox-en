@@ -1,13 +1,13 @@
 body {
     font-family: 'Roboto', sans-serif;
     width: 90vw;
-    margin: 7% auto;
+    margin: 5% auto;
     background-color: black;
     color: #8ad4ff;
 }
 
 .white-mode {
-    background-color: white;
+    background-color: #8ad4ff;
     color: black;
 }
 
@@ -126,7 +126,6 @@ img {
 }
 
 
-
 /*Switch CSS 09/09/2021*/
 
 .switch {
@@ -193,6 +192,7 @@ img {
     header {
         order: -1;
         width: 100%;
+        margin-bottom: 1em;
     }
     header img {
         border-radius: 0;
